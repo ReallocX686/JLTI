@@ -2,7 +2,7 @@
 java Library JavaLegacyTerminalInterface, text-interface, for window, linux
 
 
-'''xml
+```xml
 <dependencies>
     <dependency>
         <groupId>jlti</groupId>
@@ -10,4 +10,4 @@ java Library JavaLegacyTerminalInterface, text-interface, for window, linux
         <version>1.2.1</version>
     </dependency>
 </dependencies>
-'''
+```
