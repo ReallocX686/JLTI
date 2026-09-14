@@ -7,7 +7,7 @@ java Library JavaLegacyTerminalInterface, text-interface, for window, linux
     <dependency>
         <groupId>jlti</groupId>
         <artifactId>JLTI</artifactId>
-        <version>1.2.1</version>
+        <version>1.x.x</version>
     </dependency>
 </dependencies>
 ```
